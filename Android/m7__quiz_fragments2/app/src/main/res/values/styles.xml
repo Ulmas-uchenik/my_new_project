@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BrownRadioButton" parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="backgroundTint">@color/brown</item>
+    </style>
+    <style name="BrownButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/brown</item>
+    </style>
+</resources>

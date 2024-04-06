@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.M7__quiz_fragments" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#FEE7D9</item>
+        <item name="colorPrimaryDark">#7C6861</item>
+        <item name="fontFamily">@font/opensans_medium</item>
+        <item name="radioButtonStyle">@style/BrownRadioButton</item>
+        <item name="materialButtonStyle">@style/BrownButton</item>
+    </style>
+
+    <style name="Theme.M7__quiz_fragments" parent="Base.Theme.M7__quiz_fragments" />
+</resources>
