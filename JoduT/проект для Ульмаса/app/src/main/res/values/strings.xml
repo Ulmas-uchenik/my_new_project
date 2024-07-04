@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FromUlmasSite</string>
+    <string name="name_text">Имя</string>
+    <string name="number_text">Телефон</string>
+    <string name="sex_text">Пол</string>
+    <string name="man_text">M</string>
+    <string name="woman_text">Ж</string>
+    <string name="notifications_text">Получать уведомления</string>
+    <string name="auth_text">Об авторизации на устройстве</string>
+    <string name="news_text">О новинках и предложениях</string>
+    <string name="score_text">Баллы</string>
+    <string name="score_number_text">0/100</string>
+    <string name="save_text">Сохранить</string>
+    <string name="saved_text">Изменения сохранены</string>
+</resources>

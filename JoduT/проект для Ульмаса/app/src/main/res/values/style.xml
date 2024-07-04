@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CheckBoxStyle" parent="Widget.Material3.CompoundButton.CheckBox">
+        <item name="android:buttonTint">@color/turquoise</item>
+    </style>
+    <style name="BasicTextAppearance" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="BasicTextAppearance.GreyColor">
+        <item name="android:textColor">#444444</item>
+    </style>
+</resources>
